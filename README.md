@@ -11,7 +11,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 > **Warning**: Script Ini Tidak Support Qr Untuk Saat Ini, Jadi Kalian Bisa Menggunakan Replit Untuk Mengambil Session Atau
 Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Sesi Bisa Pakai main.js.bak yg sudah saya sediakan
 
-<h1 align="center">ZykoBotz - MD</h1>
+<h1 align="center">Elaina-MD By Dims</h1>
 <p align="center">
   <a href="https://github.com/ZykoBotz-MD"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Zyko+BOT+Multi+Device;Base+ori+by+Elaina;Recode+By+Zyko-MD;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
@@ -130,5 +130,4 @@ Set prefix
 * [`WH-MODS-BOT`](https://github.com/WH-MODS-BOT/)
 
 ## ```Recode By ✏️```
-[![Zyko-MD](https://telegra.ph/file/c04f24cd3f2203ffe348f.jpg?size=20)](https://github.com/ZykoBotz-MD)
 [![Im-Dims](https://telegra.ph/file/c04f24cd3f2203ffe348f.jpg?size=20)](https://github.com/Im-Dims)
