@@ -123,7 +123,7 @@ Set prefix
 
 ## ```Thanks to ✨```
 * [`Allah SWT`](https://github.com/ZykoBotz-MD)
-* [`My parents`](https://github.com/ZykoBotz-MD)
+* [`Zyko-MD`](https://github.com/ZykoBotz-MD)
 * [`All Friends`](https://github.com/ZykoBotz-MD)
 * [`All Contributors`](https://github.com/ZykoBotz-MD)
 * [`All Creator Bot`](https://github.com/ZykoBotz-MD)
