@@ -26,11 +26,12 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 
 ## ```Connect With Me 📞``` 
 
-## ```Whatsapp``` <a href="https://wa.me/6282124046059"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282124046059) 
+## ```Whatsapp``` <a href="https://wa.me/6281398274790"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282113847022) 
 ---------
 
 ### a little about this bot
+- ✔️ | **Multi Auth** 
 - ✔️ | **Simple** 
 - ✔️ | **Button Template** 
 - ✔️ | **Multi Device** 
@@ -43,6 +44,7 @@ Memakai Sc Lain Untuk Mengambil Session Atau Kalau Kalian Masih pengguna Satu Se
 - ✔️ | Nsfw 
 - ✔️ | Sticker 
 - ✔️ | Game 
+- ✔️ | Openai 
 - ✔️ | Kerang Ajaib 
 - ✔️ | Quotes
 - ✔️ | Anime 
@@ -126,7 +128,7 @@ Set prefix
 * [`All Contributors`](https://github.com/ZykoBotz-MD)
 * [`All Creator Bot`](https://github.com/ZykoBotz-MD)
 * [`WH-MODS-BOT`](https://github.com/WH-MODS-BOT/)
-* [`Aldi-Ganz-Offc`](https://github.com/https://github.com/Aldi-Ganz-Offc)
 
 ## ```Recode By ✏️```
 [![Zyko-MD](https://telegra.ph/file/c04f24cd3f2203ffe348f.jpg?size=20)](https://github.com/ZykoBotz-MD)
+[![Im-Dims](https://telegra.ph/file/c04f24cd3f2203ffe348f.jpg?size=20)](https://github.com/Im-Dims)
